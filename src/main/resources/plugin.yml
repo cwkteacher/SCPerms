@@ -1,0 +1,5 @@
+name: SCPerms
+version: 0.1
+description: Adds ScriptCraft perms to player as they join
+author: Faux
+main: nf.co.fauxfox.scperms.Main
